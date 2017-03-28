@@ -1,5 +1,4 @@
 import gulp from "gulp";
-import submodule from "gulp-git-submodule";
 import cp from "child_process";
 import gutil from "gulp-util";
 import postcss from "gulp-postcss";
@@ -12,13 +11,12 @@ import webpackConfig from "./webpack.conf";
 const browserSync = BrowserSync.create();
 const hugoBin = "hugo";
 const defaultArgs = ["-d", "../dist", "-s", "site", "-v"];
-submodule.registerTasks(gulp);
 
 gulp.task("hugo", (cb) => buildSite(cb));
 gulp.task("hugo-preview", (cb) => buildSite(cb, ["--buildDrafts", "--buildFuture"]));
 
-gulp.task("build", ["sm:install", "css", "js", "hugo"]);
-gulp.task("build-preview", ["sm:install", "css", "js", "hugo-preview"]);
+gulp.task("build", ["css", "js", "hugo"]);
+gulp.task("build-preview", ["css", "js", "hugo-preview"]);
 
 gulp.task("css", () => (
   gulp.src("./src/css/*.css")

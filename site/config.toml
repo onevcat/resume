@@ -1,5 +1,4 @@
 baseurl = "https://onev.cat"
-title = "Resume - Wei Wang"
 copyright = "&copy; 2017 Wei Wang"
 theme = "academic"
 enableEmoji = true
@@ -19,8 +18,6 @@ defaultContentLanguageInSubdir = false
   hrefTargetBlank = true
 
 [params]
-  name = "Wei Wang"
-  role = "iOS Developer"
   organization = "OneV's Den (@onevcat)"
   organization_url = "https://onevcat.com"
   avatar = "portrait.jpg"
@@ -33,9 +30,6 @@ defaultContentLanguageInSubdir = false
   # Date format (refer to Go's date format: http://flippinggodateformat.com )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
   date_format = "2006-01-02"
-
-  address = "JR Shinjuku MIRAINA Tower 23F, 5-24-55 Sendagaya, Shibuya-ku, Tokyo, 151-0051, Japan"
-  office_hours = "Please send an email for appointment"
 
   # Enable global LaTeX math rendering?
   #   If false, you can enable it locally on a per page basis.
@@ -86,40 +80,88 @@ defaultContentLanguageInSubdir = false
     icon_pack = "fa"
     link = "//github.com/onevcat"
 
+  [[menu.main]]
+    name = "Home"
+    url = "#about"
+    weight = 1
 
-# Navigation Links
-#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
-#     desired widget in your `content/home/` folder.
-#   The weight parameter defines the order that the links will appear in.
+  [[menu.main]]
+    name = "Projects"
+    url = "#projects_selected"
+    weight = 2
 
-[[menu.main]]
-  name = "Home"
+  [[menu.main]]
+    name = "Publications"
+    url = "#publications_selected"
+    weight = 3
+
+  [[menu.main]]
+    name = "Talks"
+    url = "#talks"
+    weight = 4
+
+  [[menu.main]]
+    name = "Experience"
+    url = "#experience"
+    weight = 5
+
+  [[menu.main]]
+    name = "Contact"
+    url = "#contact"
+    weight = 6
+
+  [[menu.main]]
+    name = "中文"
+    url = "/zh"
+    weight = 7
+
+  [[languages.zh.menu.main]]
+  name = "主页"
   url = "#about"
   weight = 1
 
-[[menu.main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 2
+  [[languages.zh.menu.main]]
+    name = "项目"
+    url = "#projects_selected"
+    weight = 2
 
-[[menu.main]]
-  name = "Publications"
-  url = "#publications_selected"
-  weight = 3
+  [[languages.zh.menu.main]]
+    name = "出版"
+    url = "#publications_selected"
+    weight = 3
 
-[[menu.main]]
-  name = "Experience"
-  url = "#experience"
-  weight = 4
+  [[languages.zh.menu.main]]
+    name = "演讲"
+    url = "#talks"
+    weight = 4
 
-[[menu.main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 5
+  [[languages.zh.menu.main]]
+    name = "经历"
+    url = "#experience"
+    weight = 5
+
+  [[languages.zh.menu.main]]
+    name = "联系"
+    url = "#contact"
+    weight = 6
   
-# Languages
-#   Create a [languages.X] block for each language you want, where X is the language ID.
+  [[languages.zh.menu.main]]
+    name = "English"
+    url = "../"
+    weight = 7
 
-# Configure the English version of the website.
 [languages.en]
   languageCode = "en-us"
+  title = "Resume - Wei Wang"
+  name = "Wei Wang"
+  role = "iOS Developer"
+  address = "JR Shinjuku MIRAINA Tower 23F, 5-24-55 Sendagaya, Shibuya-ku, Tokyo, 151-0051, Japan"
+  office_hours = "Please send an email for appointment"
+
+[languages.zh]
+  languageCode = "zh"
+  title = "简历 - 王巍"
+  name = "王 巍"
+  role = "iOS 开发者"
+  address = "日本東京渋谷区千駄ヶ谷五丁目 4 番 55 号，JR 新宿ミライナタワー 23F, 151-0051"
+  office_hours = "预约会面请先邮件联系"

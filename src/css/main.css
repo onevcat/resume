@@ -1,1 +1,9 @@
-@import "imports/reset.css";
+html {
+    font-family: "ff-tisa-web-pro-1", "ff-tisa-web-pro-2", "Lucida Grande", "Hiragino Sans GB", "Hiragino Sans GB W3", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
+    color: #4e4e4e;
+}
+
+.dim {
+    font-size: 0.7em;
+    color: #8e8e8e
+}

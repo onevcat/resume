@@ -1,42 +1,32 @@
 +++
-# About/Biography widget.
-
-date = "2016-04-20T00:00:00"
+date = "2017-03-29T00:00:00"
 draft = false
 
 widget = "about"
 
-# Order that this section will appear in.
 weight = 1
 
-# List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Mobile Development",
+    "Swift Programming",
+    "Open Source Software"
   ]
 
-# List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
+  course = "MSc in Microelectronics Engineering"
+  institution = "Tsinghua University, China"
   year = 2012
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
+  course = "BSc in Electrical Engineering"
+  institution = "Tsinghua University, China"
   year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
  
 +++
 
-# Biography
+# Summary
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Wei Wang is a professional developer who focuses on iOS now. He has strong knowledge of Swift, Objective-C and network programming. With these skills, he created quite a few widely used applications and frameworks. He also leads the [ObjCCN group](https://objccn.io), which is dedicated to introducing advanced iOS practice and technology to China.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+As a proud father of two amazing kids, Wei Wang also loves traveling, reading and taking photographs. He is always willing to try new things, and keeping to learn from them.

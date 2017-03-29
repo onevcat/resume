@@ -7,3 +7,8 @@ html {
     font-size: 0.7em;
     color: #8e8e8e
 }
+
+.row {
+    margin-right: 0px;
+    margin-left: 0px;
+}

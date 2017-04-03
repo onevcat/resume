@@ -155,7 +155,7 @@ defaultContentLanguageInSubdir = false
   title = "Resume - Wei Wang"
   name = "Wei Wang"
   role = "iOS Developer"
-  address = "JR Shinjuku MIRAINA Tower 23F, 5-24-55 Sendagaya, Shibuya-ku, Tokyo, 151-0051, Japan"
+  address = "JR Shinjuku Miraina Tower 23F, 4-1-6 Shinjuku, Shinjuku-ku, Tokyo, 160-0022, Japan"
   office_hours = "Please send an email for appointment"
 
 [languages.zh]
@@ -163,5 +163,5 @@ defaultContentLanguageInSubdir = false
   title = "简历 - 王巍"
   name = "王 巍"
   role = "iOS 开发者"
-  address = "日本東京渋谷区千駄ヶ谷五丁目 4 番 55 号，JR 新宿ミライナタワー 23F, 151-0051"
+  address = "日本東京都新宿区新宿 4-1-6　JR 新宿ミライナタワー 23 階，160-0022，03-4316-2000"
   office_hours = "预约会面请先邮件联系"

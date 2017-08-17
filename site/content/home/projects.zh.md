@@ -36,4 +36,4 @@ view = 0
 ### [APNGKit](https://github.com/onevcat/APNGKit)
 <span class="dim">框架</span>
 
-APNGKit是一个 iOS 上加载和显示 APNG 格式图片的高性能框架。它基于带有 APNG 支持的 libpng 进行构建，并使用 Swift 处理图像的解码和再组装。基于 Cocoa Touch 的高层级抽象可以为使用者提供一套易用的 API。APNGKit 让你以前所未有的便利和熟悉的方式，在 iOS 系统中使用更先进的动画图片格式。
+APNGKit 是一个 iOS 上加载和显示 APNG 格式图片的高性能框架。它基于带有 APNG 支持的 libpng 进行构建，并使用 Swift 处理图像的解码和再组装。基于 Cocoa Touch 的高层级抽象可以为使用者提供一套易用的 API。APNGKit 让你以前所未有的便利和熟悉的方式，在 iOS 系统中使用更先进的动画图片格式。

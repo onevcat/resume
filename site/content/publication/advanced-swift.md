@@ -19,5 +19,9 @@ url = "https://objccn.io/products/advanced-swift/"
 name = "Preview"
 url = "https://objccn.io/products/advanced-swift/preview"
 
+[[url_custom]]
+name = "Paperback"
+url = "http://item.jd.com/12191954.html"
+
 +++
 

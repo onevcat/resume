@@ -24,7 +24,7 @@ name = "英文版"
 url = "https://leanpub.com/swifter-en"
 
 [[url_custom]]
-name = "简装版"
+name = "纸质版"
 url = "http://item.jd.com/11837385.html"
 
 # Optional featured image (relative to `static/img/` folder).

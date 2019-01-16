@@ -30,3 +30,5 @@ weight = 1
 Wei Wang is a professional developer who focuses on iOS now. He has strong knowledge of Swift, Objective-C and network programming. With these skills, he created quite a few widely used applications and frameworks. He also leads the [ObjCCN group](https://objccn.io), which is dedicated to introducing advanced iOS practice and technology to China.
 
 As a proud father of two amazing kids, Wei Wang also loves traveling, reading and taking photos. He is always willing to try new things, and keeping to learn from them.
+
+Now, he worked for [LINE Corporation](https://line.me/) as a senior software engineer.

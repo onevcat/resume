@@ -16,9 +16,10 @@ weight = 60
 
 ### Oct. 2014 ~ now
 
-Software Engineer, Dev Center 3, [LINE Corp.](https://line.me), Tokyo, Japan
+Senior Software Engineer, Dev Center, [LINE Corp](https://line.me), Tokyo, Japan
 
-- iOS application development
+- iOS application/framework development
+- Developing team tech leader
 - Swift evangelist
 
 ### Oct. 2012 ~ Sep. 2014

@@ -20,7 +20,7 @@ name = "试读"
 url = "https://objccn.io/products/functional-swift/preview"
 
 [[url_custom]]
-name = "简装版"
+name = "纸质版"
 url = "http://item.jd.com/12029176.html"
 
 +++

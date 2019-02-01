@@ -31,4 +31,4 @@ Wei Wang is a professional developer who focuses on iOS now. He has strong knowl
 
 As a proud father of two amazing kids, Wei Wang also loves traveling, reading and taking photos. He is always willing to try new things, and keeping to learn from them.
 
-Now, he worked for [LINE Corporation](https://line.me/) as a senior software engineer.
+Now, he works for [LINE Corporation](https://line.me/) as a senior software engineer.

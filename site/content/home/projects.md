@@ -2,7 +2,7 @@
 date = "2017-03-29T00:00:00"
 draft = false
 
-title = "Other Projects"
+title = "My Other Projects"
 subtitle = ""
 widget = "custom"
 
@@ -16,7 +16,7 @@ view = 0
 
 +++
 
-I also built and worked on these projects:
+I also built and maintained these projects:
 
 ### [VVDocumenter-Xcode](https://github.com/onevcat/VVDocumenter-Xcode)
 <span class="dim">Xcode Plugin</span>

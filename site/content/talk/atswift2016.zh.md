@@ -5,7 +5,7 @@ abstract = ""
 abstract_short = ""
 event = "@Swift 2016"
 event_url = "https://atswift.swift.gg"
-location = "中国北京，北航新主楼会议中心"
+location = "北京，北航新主楼会议中心"
 
 url_slides = "https://speakerdeck.com/onevcat/ru-he-da-zao-ge-rang-ren-yu-kuai-de-kuang-jia"
 url_video = "https://youtu.be/Sa7GVrhDZPM"

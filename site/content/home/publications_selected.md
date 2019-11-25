@@ -2,7 +2,7 @@
 date = "2016-04-20T00:00:00"
 draft = false
 
-title = "Selected Publications"
+title = "My Selected Books"
 subtitle = ""
 widget = "publications_selected"
 

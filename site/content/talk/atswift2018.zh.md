@@ -5,7 +5,7 @@ abstract = ""
 abstract_short = ""
 event = "@Swift 2018"
 event_url = "https://atswift.swift.gg"
-location = "中国北京，香格里拉酒店"
+location = "北京，香格里拉酒店"
 
 url_slides = "https://speakerdeck.com/onevcat/cong-swift-dao-ji-qi-xue-xi"
 url_video = "https://youtu.be/-4C_rLcJKKA"

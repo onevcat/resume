@@ -2,7 +2,7 @@
 date = "2017-03-29T00:00:00"
 draft = false
 
-title = "其他项目"
+title = "我的其他项目"
 subtitle = ""
 widget = "custom"
 

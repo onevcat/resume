@@ -5,7 +5,7 @@ abstract = ""
 abstract_short = ""
 event = "@Swift 2016"
 event_url = "https://atswift.swift.gg"
-location = "Grand Lecture Hall, Beihang University, Beijing, China"
+location = "Grand Lecture Hall, Beihang University, Beijing"
 
 url_slides = "https://speakerdeck.com/onevcat/ru-he-da-zao-ge-rang-ren-yu-kuai-de-kuang-jia"
 url_video = "https://youtu.be/Sa7GVrhDZPM"

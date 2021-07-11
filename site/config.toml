@@ -156,7 +156,7 @@ defaultContentLanguageInSubdir = false
   name = "Wei Wang"
   role = "iOS Developer"
   address = "Yotsuya Tower 23rd FL., 1-6-1 Yotsuya, Shinjuku-ku, Tokyo, 160-0004, Japan"
-  office_hours = "Please send an email for appointment"
+  office_hours = "Please send an email for appointment."
 
 [languages.zh]
   languageCode = "zh"

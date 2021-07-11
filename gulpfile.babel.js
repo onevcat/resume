@@ -9,12 +9,7 @@ import webpack from "webpack";
 import webpackConfig from "./webpack.conf";
 
 const browserSync = BrowserSync.create();
-let hugoBin;
-if (process.env.netlify === "1") {
-  hugoBin = "hugo_0.19";
-} else {
-  hugoBin = "hugo";
-}
+let hugoBin = "hugo";
 
 const defaultArgs = ["-d", "../dist", "-s", "site", "-v"];
 

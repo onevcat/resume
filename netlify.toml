@@ -4,3 +4,6 @@
 
 [context.deploy-preview]
   command = "npm run build-preview"
+
+[context.deploy-preview.environment]
+  HUGO_VERSION = "0.83.1"
